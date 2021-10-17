@@ -1,5 +1,4 @@
-object scala{
-    def main() {
+def main() {
         print("Helloworld")
-    }
 }
+
